@@ -1,0 +1,8 @@
+@software{alsfrs-local-evaluation,
+  author = {Callegaro Stefano},
+  month = {04},
+  year = {2024},
+  title = {ALSFRS-R Local Evaluation},
+  url = {https://github.com/tety94/alsfrs-local-evaluation},
+  version = {1.0.0},
+}
